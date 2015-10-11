@@ -1,0 +1,11 @@
+apps:
+  region: 'NYC3'
+  pool_name: 'app-server-'
+
+workers:
+  region: 'NYC3'
+  pool_name: 'worker'
+
+scrapers:
+  region: 'NYC3'
+  pool_name: 'scrape'
